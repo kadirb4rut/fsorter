@@ -1,0 +1,8 @@
+README.md
+setup.py
+fsorter/__init__.py
+fsorter/fsorter.py
+fsorter.egg-info/PKG-INFO
+fsorter.egg-info/SOURCES.txt
+fsorter.egg-info/dependency_links.txt
+fsorter.egg-info/top_level.txt

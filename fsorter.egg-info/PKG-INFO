@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: fsorter
+Version: 2.0
+Summary: File sorting program according to the numbers in the file name.
+Home-page: https://github.com/kadirrbrtt/fsorter
+Author: Kadir Barut
+Author-email: kadirrbrtt@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -60,6 +74,8 @@ for k in test:
 
 If the file extensions that need to be sorted into the Fsorter program are not entered as parameters, by default they are ['.jpg', '.png', '.jpeg', '.tif', '.tiff', '.nii', '.JPG', '. JPEG', '.TIFF', '.TIF', '.NII'] extensions sort.
  
+
+
 
 
 
