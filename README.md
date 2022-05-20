@@ -1,5 +1,5 @@
 ## Table of contents
-* [General info](#general-info)
+* [General Info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [How to use Fsorter](#how-to-use-Fsorter)
@@ -7,7 +7,7 @@
 * [Example 2](#example-2)
 * [Note](#Note)
 
-## General info
+## General Info
 This program checks the numeric values ​​at the end of the  file names in the folder and sorts the file names from the smallest number to the larger number.
 	
 ## Technologies
@@ -22,7 +22,7 @@ $ pip install fsorter
 
 ```
 
-## How to use fsorter
+## How to use Fsorter
 
 ```
 from fsorter import fsorter
