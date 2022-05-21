@@ -27,7 +27,7 @@ $ pip install fsorter
 ```
 from fsorter import fsorter
 
-test_list = filesort('file path',['extensions'])
+test_list = fsorter.filesort('file path',['extensions'])
  
 ```
 
@@ -36,7 +36,7 @@ test_list = filesort('file path',['extensions'])
 ```
 from fsorter import fsorter
 
-test_list = filesort('C://Windows//Users//test_user//Desktop//test_folder',['jpg','png','tiff','pdf','pptx','xlsx'])
+test_list = fsorter.filesort('C://Windows//Users//test_user//Desktop//test_folder',['jpg','png','tiff','pdf','pptx','xlsx'])
  
 ```
 
@@ -46,10 +46,10 @@ You can make an example like below to see how it sorts files in console output.
 
 ```
 
-from fsorter import fileSort
+from fsorter import fsorter
 
-dir='test'
-test=fileSort(dir)
+dir = 'test'
+test = fsorter.fileSort(dir)
 
 for k in test:
     print(k)
